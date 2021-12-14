@@ -1,0 +1,18 @@
+ 1001  cd /var/webapps/
+ 1002  unzip w
+ 1003  unzip webApp.zip
+ 1004  cd /usr/local/tomcat/bin
+ 1005  ./shutdown.sh
+ 1006  ./startup.sh
+WNVm85VwL=
+
+http://49.234.74.166:8888/
+j44nmn11
+1d015858
+vue 3 »±…Ÿ esbuild
+node node_modules/esbuild/install.js
+
+redis ∆Ù∂Ø
+redis-server redis.windows.conf
+
+//PROC_JBSQ_UPDQYJYSJ  
