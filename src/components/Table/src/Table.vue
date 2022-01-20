@@ -189,6 +189,7 @@
 
       //密度切换
       function densitySelect(e) {
+        console.log(123)
         state.tableSize = e;
       }
 
